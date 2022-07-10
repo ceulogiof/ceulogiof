@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Carlos Eulogio, currently open for work!
+I am Carlos Eulogio!
 
-- **🔭** For the last six months, I have been an active contributor to the open-source finite element framework [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos). Kratos is written in C++, with an extensive Python interface. It is available for Linux, Windows and MacOS and provides support for OpenMP and MPI parallelization.
+- **🔭** From May to October 2021, I had been an active contributor to the open-source finite element framework [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos). Kratos is written in C++, with an extensive Python interface. It is available for Linux, Windows and MacOS and provides support for OpenMP and MPI parallelization.
 
 - 👯 I’m looking to collaborate on software development projects, ideally in numerical simulation/finite elements, but I am quite open.
 
